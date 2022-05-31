@@ -1,1 +1,2 @@
-This is basic Employee Management App that performs CRUD operations made by using React in frontend and Spring Boot in Backend.
+Technologies used: React.js, Spring Boot, MySQL
+Simple CRUD Application
