@@ -1,2 +1,3 @@
-Technologies used: React.js, Spring Boot, MySQL
+Technologies used: React.js, Spring Boot, MySQL, 
+
 Simple CRUD Application
